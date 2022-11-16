@@ -7,6 +7,10 @@ body {
 #mainHeading {
     color: red;
     text-align: center;
+    background-color: gainsboro;
+    width: 800px;
+    margin: 40px auto;
+    padding: 40px;
 }
 
 .funParagraph {
@@ -17,6 +21,10 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-color: gainsboro;
+    width: 800px;
+    margin: 0 auto;
+    padding: 0 40px;
 }
 
 .nav-list {

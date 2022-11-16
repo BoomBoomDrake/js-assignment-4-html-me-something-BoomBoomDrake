@@ -1,7 +1,7 @@
 body {
     margin: 8;
     display: block;
-    background-color: gainsboro;
+    background-color: navy;
 }
 
 #mainHeading {
@@ -39,6 +39,14 @@ a {
     justify-content: center;
     align-items: center;
 }
+
 img {
     width: 600px;
+}
+
+article {
+    text-align: center;
+    background-color: gainsboro;
+    margin: 40px auto;
+    padding: 40px;
 }

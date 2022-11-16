@@ -6,6 +6,7 @@ body {
 
 #mainHeading {
     color: red;
+    text-align: center;
 }
 
 .funParagraph {
@@ -32,6 +33,12 @@ a {
     color: black;
 }
 
+.img-cont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 img {
     width: 600px;
 }

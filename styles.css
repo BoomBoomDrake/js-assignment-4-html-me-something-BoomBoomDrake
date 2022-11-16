@@ -1,6 +1,7 @@
 body {
     margin: 8;
     display: block;
+    background-color: gainsboro;
 }
 
 #mainHeading {
@@ -29,4 +30,8 @@ nav {
 a {
     text-decoration: none;
     color: black;
+}
+
+img {
+    width: 600px;
 }
